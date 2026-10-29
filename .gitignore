@@ -1,0 +1,22 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Frontend
+node_modules/
+dist/
+
+# Editors and operating system
+.vscode/
+.DS_Store
+
+# Local test files
+test_resume.pdf
